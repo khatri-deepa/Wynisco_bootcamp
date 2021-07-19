@@ -11,7 +11,7 @@ function App() {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 18 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am instructor  </p>
+          <p className="lead">My Name is Deepa Khatri and I am instructor  </p>
           <NavBar />
 
           <Table dark>
