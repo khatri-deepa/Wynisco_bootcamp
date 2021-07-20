@@ -39,7 +39,10 @@ function Homeworks() {
                   <td>Homework 2</td>
                   <td>Javascript - Here is my codepen link with solutions</td>
                   <td>
-                    <a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a>{" "}
+                    <a href="https://codepen.io/khatri-deepa/pen/poPrVZY">
+                      {" "}
+                      Link
+                    </a>{" "}
                   </td>
                 </tr>
               </tbody>
