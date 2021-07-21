@@ -45,6 +45,17 @@ function Homeworks() {
                     </a>{" "}
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>Homework 3</td>
+                  <td>Javascript - Here is my codepen link with solutions</td>
+                  <td>
+                    <a href="https://codepen.io/khatri-deepa/pen/poPrVZY">
+                      {" "}
+                      Link
+                    </a>{" "}
+                  </td>
+                </tr>
               </tbody>
             </Table>
           </Container>
